@@ -14,7 +14,7 @@ Explorar cómo aprovechar las capacidades de OpenAI dentro de Power BI para gene
 - **OpenAI API**: Para procesamiento de lenguaje natural e inteligencia artificial.  
 
 ## 📂 Contenido del Repositorio  
-- `codigo_M.pq`: Código en M para conectar con OpenAI API.  
+- `CodigoM-API-OpenIA-Funcion.pq`: Código en M para conectar con OpenAI API.  
 - `ejemplo.pbix`: Archivo de Power BI con la implementación.  
 
 ## 📌 Consideraciones  
