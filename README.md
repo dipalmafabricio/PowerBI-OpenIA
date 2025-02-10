@@ -15,7 +15,6 @@ Explorar cómo aprovechar las capacidades de OpenAI dentro de Power BI para gene
 
 ## 📂 Contenido del Repositorio  
 - `CodigoM-API-OpenIA-Funcion.pq`: Código en M para conectar con OpenAI API.  
-- `ejemplo.pbix`: Archivo de Power BI con la implementación.  
 
 ## 📌 Consideraciones  
 ⚠️ **Seguridad**: No expongas tu API Key en archivos públicos.  
